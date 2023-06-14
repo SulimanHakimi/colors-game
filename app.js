@@ -53,5 +53,4 @@ function checkColor(){
 checkColor()
 
 
-
 //writed by Suliman Hakimi
